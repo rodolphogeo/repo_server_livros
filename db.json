@@ -1,0 +1,17 @@
+{
+  "pessoas":[
+    {
+      "id" : 0,
+      "nome": "Joao",
+      "genero" : "Masculino",
+      "idade": "25",
+      "estado civil": "Solteiro",
+      "cpf": "00011122233",
+      "nascimento": "Recife",
+      "estado": "Pernambuco",
+      "nacionalidade": "Brasil",
+      "email": "joao@.com",
+      "ocupacao": "Estudante"
+    }
+  ]
+}
