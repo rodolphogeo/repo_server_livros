@@ -13,5 +13,13 @@
       "email": "joao@.com",
       "ocupacao": "Estudante"
     }
+  ],
+  "livros":[
+    {
+      "id" : 0,
+      "nome": "Crônicas",
+      "autor": "John G. Coomer",
+      "ano": "2001"
+    }
   ]
 }
